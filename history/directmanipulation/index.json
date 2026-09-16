@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "directmanipulation.dll",
+  "latest": "676564763-5DA9179DEE5C59B15A9A641E12915209-1",
+  "builds": [
+    {
+      "key": "676564763-5DA9179DEE5C59B15A9A641E12915209-1",
+      "timestamp": "676564763",
+      "pdb_guid": "5DA9179DEE5C59B15A9A641E12915209",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/676564763-5DA9179DEE5C59B15A9A641E12915209-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
